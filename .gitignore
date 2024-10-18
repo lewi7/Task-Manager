@@ -1,0 +1,9 @@
+# Node modules
+task-manager-backend/node_modules/
+task-manager/node_modules/
+
+# Environment variables
+task-manager-backend/.env
+
+# Other files to ignore
+task-manager/build/
